@@ -1,2 +1,2 @@
-clean copy only.
+old snapshots.
 
